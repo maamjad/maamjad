@@ -1,6 +1,22 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif)](https://github.com/adityagoel08/)
 <h1 align="center">Hi 👋, I'm Muhammad Amjad</h1>
 <h3 align="center">DevOps and Cloud Enthusiast</h3>
+
+<a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+  </a>
+  
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
