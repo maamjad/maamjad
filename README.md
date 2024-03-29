@@ -12,9 +12,6 @@
 
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
- <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.huawei.com%2Fenterprise%2Fen%2Fthread%2F671490479629418496&psig=AOvVaw1qBQ4vZjBQ047TWzLoaSgB&ust=1711795790917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCQ1LKmmYUDFQAAAAAdAAAAABAE"  height="90" />
-  </a>
 
 - 🔭 I’m currently working on **Kubernetes , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls**
 
@@ -49,6 +46,9 @@
 
 <h4 align="left">Visualization:</h4>
 <p align="left"> 
+     <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
 </p>
 
 <h4 align="left">Cloud:</h4>
