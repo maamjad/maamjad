@@ -4,9 +4,9 @@
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 I’m currently working on **Kubernetes , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls Learning projects**
+- 🔭 I’m currently working on **Kubernetes , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls**
 
-- 🌱 I’m currently learning **Kubernetes , OpenShift  , AWS and Terraform K**
+- 🌱 I’m currently learning **Kubernetes , OpenShift  , AWS and Terraform**
 
 - 👨‍💻 All of my projects are available at https://github.com/maamjad
 
