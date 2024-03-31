@@ -2,56 +2,42 @@
 <h1 align="center">Hi 👋, I'm Muhammad Amjad</h1>
 <h3 align="center">DevOps and Cloud Enthusiast</h3>
 
-<a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maamjad&label=Profile%20views&color=0e75b6&style=flat" alt="maamjad" /> </p>
+
 
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 I’m currently working on **Kubernetes , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls**
+- 🔭 I’m currently working on **Kubernetes , GKE , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls**
 
-- 🌱 I’m currently learning **Kubernetes , OpenShift  , AWS and Terraform**
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
 - 👨‍💻 All of my projects are available at https://github.com/maamjad
 
-- 💬 Ask me about **Kubernetes , EKS , AKS , OpenShift , Docker , CICD , AWS , Terraform and CIS Top 20 Controls Learning projects**
+- 💬 Ask me about **DevOps and Cloud Computing**
 
 - 📫 How to reach me **mamjad6818@gmail.com**
 
 - 📄 Know about my experiences: **https://www.linkedin.com/in/maamjad/**
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maamjad" alt="maamjad" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto: mamjad6818@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="aditya-goel" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/maamjad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="aditya-goel" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/maamjad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maamjad/" height="30" width="40" /></a>
+<a href="https://medium.com/@mamjad6818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mamjad6818" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h4 align="left">Languages:</h4>
-<a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamjad&show_icons=true&locale=en&layout=compact" alt="maamjad" /></p>
 
-<h4 align="left">Databases</h4>
-<p align="left"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamjad&show_icons=true&locale=en" alt="maamjad" /></p>
 
-<h4 align="left">Observability</h4>
-<p align="left"> 
-     <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
-
-<h4 align="left">Cloud:</h4>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
- </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maamjad&" alt="maamjad" /></p>
