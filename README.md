@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences: **https://www.linkedin.com/in/maamjad/**
 
-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maamjad" alt="maamjad" /></a> </p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
